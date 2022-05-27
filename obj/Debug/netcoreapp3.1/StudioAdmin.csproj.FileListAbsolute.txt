@@ -1,0 +1,162 @@
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.exe
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.deps.json
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.runtimeconfig.json
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.runtimeconfig.dev.json
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.pdb
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.Views.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.Views.pdb
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.AssemblyInfoInputs.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.AssemblyInfo.cs
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.csproj.CoreCompileInputs.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorAssemblyInfo.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorAssemblyInfo.cs
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\staticwebassets\StudioAdmin.StaticWebAssets.Manifest.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\staticwebassets\StudioAdmin.StaticWebAssets.xml
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudioAdmin.styles.css
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.TagHelpers.input.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.TagHelpers.output.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorCoreGenerate.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorTargetAssemblyInfo.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorTargetAssemblyInfo.cs
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.Views.pdb
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.csproj.CopyComplete
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.dll
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.pdb
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.genruntimeconfig.cache
+D:\Project\Studio7Teas\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.csprojAssemblyReference.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.exe
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.deps.json
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.runtimeconfig.json
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.runtimeconfig.dev.json
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.pdb
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.Views.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\StudioAdmin.Views.pdb
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.csprojAssemblyReference.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.AssemblyInfoInputs.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.AssemblyInfo.cs
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.csproj.CoreCompileInputs.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorAssemblyInfo.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorAssemblyInfo.cs
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\staticwebassets\StudioAdmin.StaticWebAssets.Manifest.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\staticwebassets\StudioAdmin.StaticWebAssets.xml
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudioAdmin.styles.css
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.TagHelpers.input.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.TagHelpers.output.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorCoreGenerate.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorTargetAssemblyInfo.cache
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.RazorTargetAssemblyInfo.cs
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.Views.pdb
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.csproj.CopyComplete
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.dll
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.pdb
+D:\Project\Studio7Teas - Copy\Studio7teas_Admin\StudioAdmin\obj\Debug\netcoreapp3.1\StudioAdmin.genruntimeconfig.cache

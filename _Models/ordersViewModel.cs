@@ -24,7 +24,8 @@ namespace MadinaAdmin._Models
     public class OrdersBLL
     {
         public int OrderID { get; set; }
-        public int CustomerID { get; set; }
+        //public int CustomerID { get; set; }
+        public Nullable<int> CustomerID { get; set; }
         public int TransactionNo { get; set; }
         public int OrderNo { get; set; }
         public string OrderType { get; set; }
